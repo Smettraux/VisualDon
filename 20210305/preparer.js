@@ -6,6 +6,6 @@ const resultats = data
     .filter(communesVaudoises)
     .map(d => ({nom: d.MunicipalityName, potentiel: d.Scenario3_RoofsFacades_PotentialSolarElectricity_GWh }))
     .sort((a, b) => a.potentiel > b.potentiel ? -1 : 1)
-    .filter(d => d.potentiel > 50)
+    .filter(d => d.potentiel > 70)
 
     console.log(JSON.stringify(resultats))
