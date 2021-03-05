@@ -17,4 +17,4 @@ Analyse de (ces deux visualisations)[https://github.com/idris-maps/heig-datavis-
  2. Pornhub 2019
     - Supprimer le taboo concernant la pornographie en montrant que la terre entière en consomme
     - tous les types de graphs sont très complets
-    - ???
+    - les publicités et leur manière de gagner de l'argent
