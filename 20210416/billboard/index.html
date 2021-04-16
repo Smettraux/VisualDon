@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://unpkg.com/billboard.js@3.0.2/dist/billboard.min.css" />
+    <script src="https://unpkg.com/billboard.js@3.0.2/dist/billboard.pkgd.min.js"></script>
+  </head>
+  <body>
+    <div id="graph"></div>
+    <script>
+
+const data = [
+    [
+        "Yverdon-les-Bains",
+        16800
+    ],
+    [
+        "Vevey",
+        21000
+    ],
+    [
+        "Renens VD",
+        18300
+    ],
+    [
+        "Nyon",
+        15900
+    ],
+    [
+        "Morges",
+        17000
+    ],
+    [
+        "Montreux",
+        15800
+    ],
+    [
+        "Lausanne",
+        89200
+    ]
+]
+
+bb.generate({
+  data: {
+      columns : [
+      [
+        "Yverdon-les-Bains",
+        16800
+    ],
+    [
+        "Vevey",
+        21000
+    ],
+    [
+        "Renens VD",
+        18300
+    ],
+    [
+        "Nyon",
+        15900
+    ],
+    [
+        "Morges",
+        17000
+    ],
+    [
+        "Montreux",
+        15800
+    ],
+    [
+        "Lausanne",
+        89200
+    ]
+      ],
+    // json: {
+    //   TrafficJournalierMoyen: data.map(({ trafJourMoy }) => trafJourMoy),
+    // },
+    type: 'bar',
+  },
+  axis : {
+      x: {
+          type : 'category',
+          categories : data.map(({ nom })=> nom) ,
+      }
+  },
+ 
+  bindto: graph
+})
+    </script>
+  </body>
+</html>
