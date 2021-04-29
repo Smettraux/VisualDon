@@ -1,0 +1,53 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1911.5 1442" style="enable-background:new 0 0 1911.5 1442;" xml:space="preserve">
+<defs>
+    <linearGradient id="Gradient1">
+      <stop offset="35%" stop-color="greenyellow"/>
+      <stop offset="5%" stop-color="greenyellow"/>
+    </linearGradient>
+
+    <pattern id="pattern" x="0" y="0" width=".1" height=".1">
+      <rect x="0" y="0" width="50" height="50" fill="RED"/>
+      <circle cx="25" cy="25" r="20" fill="url(#Gradient1)" fill-opacity="0.5"/>
+    </pattern>
+</defs>
+<filter id="noise">
+    <feTurbulence baseFrequency="12"/>
+    <feDisplacementMap in="SourceGraphic" scale="10"/>
+</filter>
+
+<circle cx="600" cy="480" r="50" fill="#4747d1" filter="url(#noise)"/>
+<circle cx="580" cy="520" r="40" fill="#4747d1" filter="url(#noise)"/>
+<circle cx="540" cy="500" r="40" fill="#4747d1" filter="url(#noise)"/>
+<circle cx="630" cy="525" r="30" fill="#4747d1" filter="url(#noise)"/>
+<circle cx="670" cy="515" r="35" fill="#4747d1" filter="url(#noise)"/>
+<circle cx="655" cy="465" r="25" fill="#4747d1" filter="url(#noise)"/>
+	
+<circle cx="560" cy="580" r="8" fill="#4747d1" filter="url(#noise)"/>	
+<polygon points="552,578 568,578 560,559" fill="#4747d1" filter="url(#noise)"/>
+	
+<circle cx="660" cy="590" r="6" fill="#4747d1" filter="url(#noise)"/>	
+<polygon points="654,588 666,588 660,562" fill="#4747d1" filter="url(#noise)"/>
+
+<path fill="url(#pattern)" class="st0" d="M1417.3,1092.5h-335V1195h232.5l0.3,5.4c-31.3,89.2-103.1,140.7-216.4,140.7c-130.8,0-229.5-104.9-229.5-237.5
+	c0-137.9,102.7-246.7,239-246.7c104.4,0,178.8,51.2,221,142.8l96.1-44.3c-59.4-128.6-172-199.4-317.1-199.4
+	c-193.3,0-344.7,152.7-344.7,347.7c0,189.8,147.3,338.5,335.3,338.5c98.1,0,172.2-39.6,225.7-101.4l9.6,77.2h83.3V1092.5z"/>
+<polygon fill="url(#pattern)" class="st0" points="1417.3,537.6 887.5,537.6 887.5,368.5 1356.3,368.5 1356.3,270.4 887.5,270.4 887.5,101.3 
+	1417.3,101.3 1417.3,0.6 779.5,0.6 779.5,638.3 1417.3,638.3 "/>
+<polygon fill="url(#pattern)" class="st0" points="528.9,264.1 107.9,264.1 107.9,0.5 0,0.5 0,638.3 107.9,638.3 107.9,365.8 528.9,365.8 528.9,638.3 
+	637.8,638.3 637.8,0.5 528.9,0.5 "/>
+<polygon fill="url(#pattern)" class="st0" points="372.9,1316.2 372.9,881.7 637.8,881.7 637.8,780.1 0,780.1 0,881.7 264.9,881.7 264.9,1316.2 0,1316.2 
+	0,1417.9 637.8,1417.9 637.8,1316.2 "/>
+<g>
+	<g>
+		<g>
+			<path filter="url(#noise)" fill="blue" class="st0" d="M1684.7,0h41l-63.3,173.3h-39.8L1559.1,0h42.5l41.8,121.9L1684.7,0z"/>
+		</g>
+		<g>
+			<path filter="url(#noise)" fill="pink" class="st0" d="M1761.6,173.3V0h62.8c52.1,0,87,33.2,87,86.8s-34.9,86.5-87.2,86.5H1761.6z M1822.8,136.9
+				c26.6,0,48.4-15.4,48.4-50.1s-21.7-50.3-48.4-50.3h-22.5v100.4H1822.8z"/>
+		</g>
+	</g>
+</g>
+</svg>
+
