@@ -55,7 +55,7 @@ const color = ({data}) => {
     case 'Vevey' : return "#6e40aa"
   }
 }
-  
+
 group.selectAll('path')
   .data(pieData)
   .enter()
