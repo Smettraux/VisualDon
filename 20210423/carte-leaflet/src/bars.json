@@ -1,0 +1,147 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2021-04-29T18:32:58Z",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/895374406",
+          "amenity": "bar",
+          "cuisine": "tapas",
+          "name": "Olé Tapas",
+          "website": "https://www.ole-tapas.ch/",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.6386616,
+            46.7798623
+          ]
+        },
+        "id": "node/895374406"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3638736055",
+          "addr:city": "Yverdon-les-Bains",
+          "addr:country": "CH",
+          "addr:housenumber": "3",
+          "addr:postcode": "1400",
+          "addr:street": "Rue de la Maison-Rouge",
+          "amenity": "bar",
+          "name": "Johny Bar",
+          "opening_hours": "Mo-We 06:30-24:00, Th 06:30-01:00, Fr 06:30-02:00, Sa 07:30-02:00",
+          "outdoor_seating": "yes",
+          "toilets:wheelchair": "no",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.6422551,
+            46.7784441
+          ]
+        },
+        "id": "node/3638736055"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4598164799",
+          "amenity": "bar",
+          "name": "Kings Bar",
+          "opening_hours": "Mo-We 08:00-24:00",
+          "outdoor_seating": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.6413289,
+            46.7793106
+          ]
+        },
+        "id": "node/4598164799"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4832604221",
+          "amenity": "bar",
+          "name": "6 bar",
+          "wheelchair": "no"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.6383304,
+            46.7801966
+          ]
+        },
+        "id": "node/4832604221"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5341469053",
+          "addr:housenumber": "10",
+          "addr:street": "Rue du Milieu",
+          "amenity": "bar",
+          "name": "d'Y-vins",
+          "opening_hours": "Tu-Th 10:00-21:00; Fr 10:00-22:00; Sa 08:00-21:00",
+          "phone": "+41 24 426 20 85",
+          "smoking": "outside",
+          "website": "http://www.dyvins.ch/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.6399391,
+            46.7788061
+          ]
+        },
+        "id": "node/5341469053"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/7230847679",
+          "addr:city": "Yverdon-les-Bains",
+          "addr:housenumber": "11",
+          "addr:postcode": "1400",
+          "addr:street": "Rue des Remparts",
+          "amenity": "bar",
+          "name": "Legend Bar",
+          "opening_hours": "Mo-We 07:00-24:00, Th 07:00-01:00, Fr,Sa 07:00-02:00, Su 08:00-24:00",
+          "website": "https://legend-bar.ch/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.640638,
+            46.7795885
+          ]
+        },
+        "id": "node/7230847679"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/8228567209",
+          "amenity": "bar",
+          "name": "Black Lodge"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            6.6376087,
+            46.7798513
+          ]
+        },
+        "id": "node/8228567209"
+      }
+    ]
+  }
