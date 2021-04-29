@@ -1,0 +1,2175 @@
+[
+    {
+        "type": "Feature",
+        "id": "way/4719222",
+        "properties": {
+            "timestamp": "2019-10-29T10:46:35Z",
+            "version": "20",
+            "changeset": "76337785",
+            "user": "swiss_knight",
+            "uid": "10123181",
+            "bicycle": "yes",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "noname": "yes",
+            "surface": "sett",
+            "id": "way/4719222"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6413009,
+                    46.7786268
+                ],
+                [
+                    6.6414285,
+                    46.7786327
+                ],
+                [
+                    6.6417719,
+                    46.7785498
+                ],
+                [
+                    6.6418093,
+                    46.7785427
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/22723990",
+        "properties": {
+            "timestamp": "2020-12-03T11:41:16Z",
+            "version": "25",
+            "changeset": "95222678",
+            "user": "schnelli",
+            "uid": "225842",
+            "cycleway": "lane",
+            "highway": "primary",
+            "lanes": "2",
+            "lit": "yes",
+            "maxspeed:type": "CH:urban",
+            "name": "Rue des Remparts",
+            "rcrc_ref": "401a",
+            "ref": "5",
+            "sidewalk": "both",
+            "source": "Survey, Orthophoto Yverdon 2007 / HEIG-VD",
+            "surface": "asphalt",
+            "id": "way/22723990"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6422963,
+                    46.7793724
+                ],
+                [
+                    6.6421635,
+                    46.7793374
+                ],
+                [
+                    6.6420238,
+                    46.7793065
+                ],
+                [
+                    6.6419375,
+                    46.7792992
+                ],
+                [
+                    6.6418526,
+                    46.7793003
+                ],
+                [
+                    6.641629,
+                    46.7793517
+                ],
+                [
+                    6.641478,
+                    46.7794084
+                ],
+                [
+                    6.6407963,
+                    46.779702
+                ],
+                [
+                    6.6407439,
+                    46.7797213
+                ],
+                [
+                    6.640176,
+                    46.7799593
+                ],
+                [
+                    6.6393703,
+                    46.7803096
+                ],
+                [
+                    6.6392697,
+                    46.7803561
+                ],
+                [
+                    6.6391734,
+                    46.7804027
+                ],
+                [
+                    6.6391228,
+                    46.7804235
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/25960778",
+        "properties": {
+            "timestamp": "2020-08-06T11:37:56Z",
+            "version": "11",
+            "changeset": "89036414",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "name": "Rue du Pr├®",
+            "surface": "asphalt",
+            "id": "way/25960778"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.638972,
+                    46.7797568
+                ],
+                [
+                    6.6388067,
+                    46.7795851
+                ],
+                [
+                    6.6385799,
+                    46.7793414
+                ],
+                [
+                    6.6384827,
+                    46.7791872
+                ],
+                [
+                    6.6384188,
+                    46.7790595
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/26516098",
+        "properties": {
+            "timestamp": "2020-08-07T06:04:09Z",
+            "version": "19",
+            "changeset": "89071354",
+            "user": "schnelli",
+            "uid": "225842",
+            "bicycle": "yes",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "name": "Rue du Four",
+            "surface": "sett",
+            "id": "way/26516098"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6381319,
+                    46.7791271
+                ],
+                [
+                    6.6381519,
+                    46.7790973
+                ],
+                [
+                    6.6382059,
+                    46.7789906
+                ],
+                [
+                    6.6382603,
+                    46.7789372
+                ],
+                [
+                    6.638289,
+                    46.7789162
+                ],
+                [
+                    6.6383951,
+                    46.7788357
+                ],
+                [
+                    6.6385049,
+                    46.7787611
+                ],
+                [
+                    6.6387747,
+                    46.7786289
+                ],
+                [
+                    6.6387988,
+                    46.7786206
+                ],
+                [
+                    6.6390014,
+                    46.7785841
+                ],
+                [
+                    6.6392643,
+                    46.7785591
+                ],
+                [
+                    6.6396046,
+                    46.7785177
+                ],
+                [
+                    6.6398862,
+                    46.7784911
+                ],
+                [
+                    6.6402441,
+                    46.778475
+                ],
+                [
+                    6.6405394,
+                    46.7784736
+                ],
+                [
+                    6.6406338,
+                    46.7784798
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/26516099",
+        "properties": {
+            "timestamp": "2018-11-17T16:34:35Z",
+            "version": "17",
+            "changeset": "64600355",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "noname": "yes",
+            "surface": "sett",
+            "id": "way/26516099"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6413009,
+                    46.7786268
+                ],
+                [
+                    6.640925,
+                    46.7787454
+                ],
+                [
+                    6.6408299,
+                    46.7787896
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/26516100",
+        "properties": {
+            "timestamp": "2019-12-17T08:23:38Z",
+            "version": "11",
+            "changeset": "78514272",
+            "user": "schnelli",
+            "uid": "225842",
+            "foot": "yes",
+            "highway": "footway",
+            "lit": "yes",
+            "name": "Ruelle du Four",
+            "surface": "sett",
+            "id": "way/26516100"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6392643,
+                    46.7785591
+                ],
+                [
+                    6.639276,
+                    46.7786037
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/26516101",
+        "properties": {
+            "timestamp": "2020-08-06T11:37:56Z",
+            "version": "14",
+            "changeset": "89036414",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "footway",
+            "lit": "yes",
+            "name": "Ruelle Lac-Milieu",
+            "surface": "asphalt",
+            "id": "way/26516101"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6394642,
+                    46.7791039
+                ],
+                [
+                    6.6394673,
+                    46.7791109
+                ],
+                [
+                    6.6395065,
+                    46.7791983
+                ],
+                [
+                    6.6396669,
+                    46.7793639
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/26516102",
+        "properties": {
+            "timestamp": "2019-12-17T15:23:59Z",
+            "version": "13",
+            "changeset": "78534070",
+            "user": "schnelli",
+            "uid": "225842",
+            "foot": "designated",
+            "highway": "footway",
+            "lit": "yes",
+            "name": "Ruelle de la Gare",
+            "surface": "asphalt",
+            "id": "way/26516102"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6397908,
+                    46.7795639
+                ],
+                [
+                    6.6400837,
+                    46.7798313
+                ],
+                [
+                    6.6401014,
+                    46.7798577
+                ],
+                [
+                    6.6401224,
+                    46.7798956
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/26516103",
+        "properties": {
+            "timestamp": "2018-11-17T16:32:06Z",
+            "version": "9",
+            "changeset": "64600324",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "name": "Rue du Coll├¿ge",
+            "surface": "sett",
+            "id": "way/26516103"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6379381,
+                    46.7791722
+                ],
+                [
+                    6.6379384,
+                    46.7792044
+                ],
+                [
+                    6.6380401,
+                    46.7796331
+                ],
+                [
+                    6.6380437,
+                    46.7796469
+                ],
+                [
+                    6.6380914,
+                    46.7798309
+                ],
+                [
+                    6.6380957,
+                    46.779848
+                ],
+                [
+                    6.6381302,
+                    46.7799609
+                ],
+                [
+                    6.6382495,
+                    46.7801145
+                ],
+                [
+                    6.638269,
+                    46.7801403
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/26578118",
+        "properties": {
+            "timestamp": "2019-11-29T08:48:59Z",
+            "version": "7",
+            "changeset": "77715417",
+            "user": "schnelli",
+            "uid": "225842",
+            "foot": "designated",
+            "highway": "footway",
+            "incline": "0%",
+            "lit": "yes",
+            "name": "Ruelle de la Forge",
+            "smoothness": "intermediate",
+            "surface": "sett",
+            "id": "way/26578118"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6380957,
+                    46.779848
+                ],
+                [
+                    6.6383191,
+                    46.7797945
+                ],
+                [
+                    6.6385503,
+                    46.7797199
+                ],
+                [
+                    6.6385198,
+                    46.7796895
+                ],
+                [
+                    6.6385658,
+                    46.7796813
+                ],
+                [
+                    6.6388067,
+                    46.7795851
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/26735399",
+        "properties": {
+            "timestamp": "2020-12-01T11:59:11Z",
+            "version": "14",
+            "changeset": "95093740",
+            "user": "schnelli",
+            "uid": "225842",
+            "cycleway": "opposite",
+            "highway": "tertiary",
+            "lanes": "1",
+            "lit": "yes",
+            "maxspeed:type": "CH:urban",
+            "name": "Rue des Casernes",
+            "oneway": "yes",
+            "sidewalk": "both",
+            "surface": "asphalt",
+            "id": "way/26735399"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6373355,
+                    46.7792574
+                ],
+                [
+                    6.6373875,
+                    46.7792868
+                ],
+                [
+                    6.6374313,
+                    46.7793228
+                ],
+                [
+                    6.6374698,
+                    46.7793771
+                ],
+                [
+                    6.6374876,
+                    46.7794439
+                ],
+                [
+                    6.6375212,
+                    46.7796789
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/32484870",
+        "properties": {
+            "timestamp": "2018-11-17T16:35:32Z",
+            "version": "11",
+            "changeset": "64600324",
+            "user": "schnelli",
+            "uid": "225842",
+            "bicycle": "yes",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "noname": "yes",
+            "surface": "sett",
+            "id": "way/32484870"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6413009,
+                    46.7786268
+                ],
+                [
+                    6.6412199,
+                    46.7784711
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/51838376",
+        "properties": {
+            "timestamp": "2020-08-06T15:44:06Z",
+            "version": "10",
+            "changeset": "89047746",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "footway",
+            "lit": "yes",
+            "name": "Ruelle Buttin",
+            "surface": "paving_stones",
+            "id": "way/51838376"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6410459,
+                    46.7788795
+                ],
+                [
+                    6.6411279,
+                    46.778964
+                ],
+                [
+                    6.6411884,
+                    46.7790259
+                ],
+                [
+                    6.6412958,
+                    46.7791616
+                ],
+                [
+                    6.6414083,
+                    46.7793038
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/79904534",
+        "properties": {
+            "timestamp": "2021-03-28T16:22:37Z",
+            "version": "5",
+            "changeset": "101880667",
+            "user": "imagoiq_",
+            "uid": "1856092",
+            "foot": "designated",
+            "highway": "footway",
+            "incline": "0%",
+            "lit": "yes",
+            "smoothness": "intermediate",
+            "surface": "asphalt",
+            "width": "2",
+            "id": "way/79904534"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6414083,
+                    46.7793038
+                ],
+                [
+                    6.6414276,
+                    46.7793324
+                ],
+                [
+                    6.6414357,
+                    46.7793548
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/83020136",
+        "properties": {
+            "timestamp": "2018-11-17T16:33:08Z",
+            "version": "7",
+            "changeset": "64600355",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "noname": "yes",
+            "surface": "sett",
+            "id": "way/83020136"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6406338,
+                    46.7784798
+                ],
+                [
+                    6.6407085,
+                    46.7785967
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/83484500",
+        "properties": {
+            "timestamp": "2020-08-06T11:37:56Z",
+            "version": "7",
+            "changeset": "89036414",
+            "user": "schnelli",
+            "uid": "225842",
+            "access": "no",
+            "description": "M├®nag├®e au Moyen Age pour s├®parer la rang├®e de maisons au nord de la rue du Milieu de celle sise au sud de la rue du Lac, la ruelle Punaise (litt├®ralement: ┬½qui pue┬╗) a longtemps servi dÔÇÖ├®gout ├á ciel ouvert.",
+            "highway": "path",
+            "name": "Ruelle Punaise",
+            "source": "http://www0.dfj.vd.ch/yverdon/travaux/histoire/punaises.html",
+            "surface": "ground",
+            "id": "way/83484500"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6393096,
+                    46.7791777
+                ],
+                [
+                    6.6394027,
+                    46.7791409
+                ],
+                [
+                    6.6394673,
+                    46.7791109
+                ],
+                [
+                    6.6396012,
+                    46.7790697
+                ],
+                [
+                    6.6400799,
+                    46.7789173
+                ],
+                [
+                    6.6402304,
+                    46.7788717
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/83961808",
+        "properties": {
+            "timestamp": "2020-12-04T10:32:59Z",
+            "version": "8",
+            "changeset": "95287252",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "unclassified",
+            "lanes": "1",
+            "lit": "yes",
+            "maxspeed": "30",
+            "maxspeed:type": "sign",
+            "name": "Rue Roger-de-Guimps",
+            "oneway": "yes",
+            "sidewalk": "left",
+            "surface": "asphalt",
+            "id": "way/83961808"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6387747,
+                    46.7786289
+                ],
+                [
+                    6.6381985,
+                    46.7778528
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/165490964",
+        "properties": {
+            "timestamp": "2018-11-17T16:35:04Z",
+            "version": "5",
+            "changeset": "64600324",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "noname": "yes",
+            "surface": "sett",
+            "id": "way/165490964"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6411808,
+                    46.778396
+                ],
+                [
+                    6.6410315,
+                    46.7781094
+                ],
+                [
+                    6.6409863,
+                    46.7780433
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/264520442",
+        "properties": {
+            "timestamp": "2018-11-16T22:14:42Z",
+            "version": "2",
+            "changeset": "64584333",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "name": "Rue du Milieu",
+            "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+            "surface": "sett",
+            "id": "way/264520442"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6384188,
+                    46.7790595
+                ],
+                [
+                    6.6393547,
+                    46.7788432
+                ],
+                [
+                    6.6406167,
+                    46.7786175
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/264520444",
+        "properties": {
+            "timestamp": "2018-11-16T22:15:24Z",
+            "version": "3",
+            "changeset": "64584333",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "name": "Rue du Milieu",
+            "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+            "surface": "sett",
+            "id": "way/264520444"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6381319,
+                    46.7791271
+                ],
+                [
+                    6.6383792,
+                    46.7790713
+                ],
+                [
+                    6.6384188,
+                    46.7790595
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/264520446",
+        "properties": {
+            "timestamp": "2019-12-10T09:33:47Z",
+            "version": "4",
+            "changeset": "78197609",
+            "user": "swiss_knight",
+            "uid": "10123181",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "name": "Rue du Lac",
+            "surface": "asphalt",
+            "id": "way/264520446"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6408299,
+                    46.7787896
+                ],
+                [
+                    6.6407653,
+                    46.7788344
+                ],
+                [
+                    6.6402834,
+                    46.7790625
+                ],
+                [
+                    6.6396669,
+                    46.7793639
+                ],
+                [
+                    6.6396145,
+                    46.779395
+                ],
+                [
+                    6.6392503,
+                    46.7795889
+                ],
+                [
+                    6.638972,
+                    46.7797568
+                ],
+                [
+                    6.6387655,
+                    46.7798731
+                ],
+                [
+                    6.638269,
+                    46.7801403
+                ],
+                [
+                    6.638075,
+                    46.7802696
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/264520449",
+        "properties": {
+            "timestamp": "2018-11-17T16:33:16Z",
+            "version": "4",
+            "changeset": "64600355",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "noname": "yes",
+            "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+            "surface": "sett",
+            "id": "way/264520449"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6406167,
+                    46.7786175
+                ],
+                [
+                    6.6407085,
+                    46.7785967
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/264520451",
+        "properties": {
+            "timestamp": "2018-11-17T16:34:17Z",
+            "version": "5",
+            "changeset": "64600355",
+            "user": "schnelli",
+            "uid": "225842",
+            "bicycle": "yes",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "noname": "yes",
+            "surface": "sett",
+            "id": "way/264520451"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6406338,
+                    46.7784798
+                ],
+                [
+                    6.6411808,
+                    46.778396
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/264520454",
+        "properties": {
+            "timestamp": "2018-11-17T16:34:01Z",
+            "version": "4",
+            "changeset": "64600355",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "noname": "yes",
+            "surface": "sett",
+            "id": "way/264520454"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6407085,
+                    46.7785967
+                ],
+                [
+                    6.6408299,
+                    46.7787896
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/264520456",
+        "properties": {
+            "timestamp": "2018-11-17T16:34:30Z",
+            "version": "4",
+            "changeset": "64600355",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "noname": "yes",
+            "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+            "surface": "sett",
+            "id": "way/264520456"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6407085,
+                    46.7785967
+                ],
+                [
+                    6.6412199,
+                    46.7784711
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/264520459",
+        "properties": {
+            "timestamp": "2018-11-17T16:35:14Z",
+            "version": "6",
+            "changeset": "64600324",
+            "user": "schnelli",
+            "uid": "225842",
+            "bicycle": "yes",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "noname": "yes",
+            "surface": "sett",
+            "id": "way/264520459"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6412199,
+                    46.7784711
+                ],
+                [
+                    6.6411808,
+                    46.778396
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/321650862",
+        "properties": {
+            "timestamp": "2019-11-05T11:02:35Z",
+            "version": "2",
+            "changeset": "76640496",
+            "user": "swiss_knight",
+            "uid": "10123181",
+            "foot": "designated",
+            "highway": "footway",
+            "incline": "0%",
+            "smoothness": "intermediate",
+            "surface": "asphalt",
+            "id": "way/321650862"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6385198,
+                    46.7796895
+                ],
+                [
+                    6.6384435,
+                    46.7796122
+                ],
+                [
+                    6.6380437,
+                    46.7796469
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/491330861",
+        "properties": {
+            "timestamp": "2020-08-06T11:37:56Z",
+            "version": "4",
+            "changeset": "89036414",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "footway",
+            "lit": "yes",
+            "name": "Ruelle Lac-Milieu",
+            "surface": "sett",
+            "id": "way/491330861"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6393547,
+                    46.7788432
+                ],
+                [
+                    6.639343,
+                    46.7789103
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/491330862",
+        "properties": {
+            "timestamp": "2020-08-06T11:37:56Z",
+            "version": "3",
+            "changeset": "89036414",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "footway",
+            "name": "Ruelle Lac-Milieu",
+            "surface": "asphalt",
+            "tunnel": "building_passage",
+            "id": "way/491330862"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.639343,
+                    46.7789103
+                ],
+                [
+                    6.6393841,
+                    46.7789793
+                ],
+                [
+                    6.639409,
+                    46.7790198
+                ],
+                [
+                    6.6394642,
+                    46.7791039
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/491330863",
+        "properties": {
+            "timestamp": "2020-01-13T06:26:46Z",
+            "version": "3",
+            "changeset": "79499765",
+            "user": "schnelli",
+            "uid": "225842",
+            "foot": "yes",
+            "highway": "footway",
+            "lit": "yes",
+            "name": "Ruelle de la Gare",
+            "surface": "asphalt",
+            "tunnel": "building_passage",
+            "id": "way/491330863"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6396533,
+                    46.7794348
+                ],
+                [
+                    6.6397908,
+                    46.7795639
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/491330864",
+        "properties": {
+            "timestamp": "2020-01-16T12:11:17Z",
+            "version": "3",
+            "changeset": "79649584",
+            "user": "schnelli",
+            "uid": "225842",
+            "foot": "yes",
+            "highway": "footway",
+            "lit": "yes",
+            "name": "Ruelle de la Gare",
+            "surface": "asphalt",
+            "id": "way/491330864"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6396145,
+                    46.779395
+                ],
+                [
+                    6.6396533,
+                    46.7794348
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/491330865",
+        "properties": {
+            "timestamp": "2019-12-17T08:24:07Z",
+            "version": "3",
+            "changeset": "78514272",
+            "user": "schnelli",
+            "uid": "225842",
+            "foot": "yes",
+            "highway": "footway",
+            "lit": "yes",
+            "name": "Ruelle du Four",
+            "surface": "sett",
+            "id": "way/491330865"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6393063,
+                    46.7787019
+                ],
+                [
+                    6.6393547,
+                    46.7788432
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/491330866",
+        "properties": {
+            "timestamp": "2019-12-17T08:24:12Z",
+            "version": "3",
+            "changeset": "78514272",
+            "user": "schnelli",
+            "uid": "225842",
+            "foot": "yes",
+            "highway": "footway",
+            "lit": "yes",
+            "name": "Ruelle du Four",
+            "surface": "asphalt",
+            "tunnel": "building_passage",
+            "id": "way/491330866"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.639276,
+                    46.7786037
+                ],
+                [
+                    6.6393063,
+                    46.7787019
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/491331042",
+        "properties": {
+            "timestamp": "2019-11-28T16:09:48Z",
+            "version": "2",
+            "changeset": "77691985",
+            "user": "schnelli",
+            "uid": "225842",
+            "foot": "yes",
+            "highway": "footway",
+            "lit": "yes",
+            "name": "Ruelle Buttin",
+            "surface": "paving_stones",
+            "tunnel": "building_passage",
+            "id": "way/491331042"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6409631,
+                    46.7787891
+                ],
+                [
+                    6.6410459,
+                    46.7788795
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/491331045",
+        "properties": {
+            "timestamp": "2019-11-28T16:09:52Z",
+            "version": "2",
+            "changeset": "77691985",
+            "user": "schnelli",
+            "uid": "225842",
+            "foot": "yes",
+            "highway": "footway",
+            "lit": "yes",
+            "name": "Ruelle Buttin",
+            "surface": "paving_stones",
+            "id": "way/491331045"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.640925,
+                    46.7787454
+                ],
+                [
+                    6.6409631,
+                    46.7787891
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/496482147",
+        "properties": {
+            "timestamp": "2018-11-17T16:30:06Z",
+            "version": "4",
+            "changeset": "64600324",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "noname": "yes",
+            "surface": "sett",
+            "id": "way/496482147"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6383792,
+                    46.7790713
+                ],
+                [
+                    6.6383294,
+                    46.7789864
+                ],
+                [
+                    6.6382603,
+                    46.7789372
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/538934274",
+        "properties": {
+            "timestamp": "2020-01-07T07:22:17Z",
+            "version": "3",
+            "changeset": "79281120",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "footway",
+            "lit": "yes",
+            "name": "Passage des Remparts",
+            "surface": "asphalt",
+            "tunnel": "building_passage",
+            "id": "way/538934274"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6405052,
+                    46.7792813
+                ],
+                [
+                    6.6404943,
+                    46.7793798
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/538934275",
+        "properties": {
+            "timestamp": "2020-01-07T06:20:50Z",
+            "version": "3",
+            "changeset": "79278927",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "footway",
+            "lit": "yes",
+            "name": "Passage des Remparts",
+            "surface": "asphalt",
+            "id": "way/538934275"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6404068,
+                    46.7791839
+                ],
+                [
+                    6.6405052,
+                    46.7792813
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/538934276",
+        "properties": {
+            "timestamp": "2020-01-07T06:20:48Z",
+            "version": "3",
+            "changeset": "79278927",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "footway",
+            "lit": "yes",
+            "name": "Passage des Remparts",
+            "surface": "asphalt",
+            "tunnel": "building_passage",
+            "id": "way/538934276"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.640314,
+                    46.7790922
+                ],
+                [
+                    6.6404068,
+                    46.7791839
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/538934277",
+        "properties": {
+            "timestamp": "2020-01-07T06:20:14Z",
+            "version": "3",
+            "changeset": "79278927",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "footway",
+            "lit": "yes",
+            "name": "Passage des Remparts",
+            "surface": "asphalt",
+            "id": "way/538934277"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6402834,
+                    46.7790625
+                ],
+                [
+                    6.640314,
+                    46.7790922
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/538934278",
+        "properties": {
+            "timestamp": "2020-01-07T07:22:22Z",
+            "version": "5",
+            "changeset": "79281120",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "footway",
+            "lit": "yes",
+            "name": "Passage des Remparts",
+            "surface": "asphalt",
+            "id": "way/538934278"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6404943,
+                    46.7793798
+                ],
+                [
+                    6.6404937,
+                    46.7794044
+                ],
+                [
+                    6.6406983,
+                    46.7796092
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/555281058",
+        "properties": {
+            "timestamp": "2019-12-17T08:27:04Z",
+            "version": "7",
+            "changeset": "78514272",
+            "user": "schnelli",
+            "uid": "225842",
+            "foot": "designated",
+            "footway": "sidewalk",
+            "highway": "footway",
+            "incline": "0%",
+            "lit": "yes",
+            "smoothness": "intermediate",
+            "surface": "asphalt",
+            "width": "1.5",
+            "id": "way/555281058"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.638776,
+                    46.7785864
+                ],
+                [
+                    6.6383869,
+                    46.7780608
+                ],
+                [
+                    6.6383827,
+                    46.778048
+                ],
+                [
+                    6.6383935,
+                    46.7780335
+                ],
+                [
+                    6.6384098,
+                    46.7780182
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/701102924",
+        "properties": {
+            "timestamp": "2020-12-01T11:59:17Z",
+            "version": "4",
+            "changeset": "95093746",
+            "user": "schnelli",
+            "uid": "225842",
+            "footway": "sidewalk",
+            "highway": "footway",
+            "incline": "0%",
+            "lit": "yes",
+            "smoothness": "intermediate",
+            "surface": "asphalt",
+            "width": "1",
+            "id": "way/701102924"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.637373,
+                    46.7792405
+                ],
+                [
+                    6.6374166,
+                    46.7792675
+                ],
+                [
+                    6.6374587,
+                    46.7792925
+                ],
+                [
+                    6.6374888,
+                    46.7793337
+                ],
+                [
+                    6.6375032,
+                    46.7794067
+                ],
+                [
+                    6.6375271,
+                    46.7795392
+                ],
+                [
+                    6.6375538,
+                    46.7797391
+                ],
+                [
+                    6.6375592,
+                    46.779843
+                ],
+                [
+                    6.6376023,
+                    46.7799456
+                ],
+                [
+                    6.6376406,
+                    46.780005
+                ],
+                [
+                    6.6377115,
+                    46.7800699
+                ],
+                [
+                    6.6377418,
+                    46.7801048
+                ],
+                [
+                    6.6378942,
+                    46.7802419
+                ],
+                [
+                    6.6379359,
+                    46.7802569
+                ],
+                [
+                    6.6379872,
+                    46.7802621
+                ],
+                [
+                    6.6380344,
+                    46.7802546
+                ],
+                [
+                    6.638075,
+                    46.7802696
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/701102925",
+        "properties": {
+            "timestamp": "2020-08-07T06:04:09Z",
+            "version": "2",
+            "changeset": "89071354",
+            "user": "schnelli",
+            "uid": "225842",
+            "bicycle": "yes",
+            "highway": "pedestrian",
+            "lit": "yes",
+            "name": "Rue du Milieu",
+            "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+            "surface": "sett",
+            "id": "way/701102925"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.637373,
+                    46.7792405
+                ],
+                [
+                    6.637422,
+                    46.7792165
+                ],
+                [
+                    6.6379381,
+                    46.7791722
+                ],
+                [
+                    6.6379932,
+                    46.7791634
+                ],
+                [
+                    6.6381319,
+                    46.7791271
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/701102926",
+        "properties": {
+            "timestamp": "2019-11-29T08:50:45Z",
+            "version": "3",
+            "changeset": "77715417",
+            "user": "schnelli",
+            "uid": "225842",
+            "crossing": "marked",
+            "crossing:island": "no",
+            "foot": "designated",
+            "footway": "crossing",
+            "highway": "footway",
+            "incline": "0%",
+            "lit": "yes",
+            "smoothness": "intermediate",
+            "surface": "asphalt",
+            "tactile_paving": "no",
+            "id": "way/701102926"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6374166,
+                    46.7792675
+                ],
+                [
+                    6.6373875,
+                    46.7792868
+                ],
+                [
+                    6.6373389,
+                    46.7793189
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/701102930",
+        "properties": {
+            "timestamp": "2019-11-29T08:50:41Z",
+            "version": "3",
+            "changeset": "77715417",
+            "user": "schnelli",
+            "uid": "225842",
+            "foot": "designated",
+            "footway": "sidewalk",
+            "highway": "footway",
+            "incline": "0%",
+            "lit": "yes",
+            "smoothness": "intermediate",
+            "surface": "asphalt",
+            "width": "1.5",
+            "id": "way/701102930"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6373389,
+                    46.7793189
+                ],
+                [
+                    6.6373934,
+                    46.7793657
+                ],
+                [
+                    6.6374266,
+                    46.7794287
+                ],
+                [
+                    6.6374441,
+                    46.7794901
+                ],
+                [
+                    6.6374761,
+                    46.7796783
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/701102951",
+        "properties": {
+            "timestamp": "2019-12-16T15:52:01Z",
+            "version": "3",
+            "changeset": "78481888",
+            "user": "schnelli",
+            "uid": "225842",
+            "crossing": "marked",
+            "crossing:island": "yes",
+            "footway": "crossing",
+            "highway": "footway",
+            "incline": "0%",
+            "lit": "yes",
+            "smoothness": "intermediate",
+            "surface": "asphalt",
+            "tactile_paving": "no",
+            "id": "way/701102951"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6414357,
+                    46.7793548
+                ],
+                [
+                    6.641478,
+                    46.7794084
+                ],
+                [
+                    6.6415252,
+                    46.7794683
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/701102952",
+        "properties": {
+            "timestamp": "2020-01-07T07:22:41Z",
+            "version": "4",
+            "changeset": "79281120",
+            "user": "schnelli",
+            "uid": "225842",
+            "bicycle": "dismount",
+            "foot": "designated",
+            "highway": "footway",
+            "incline": "0%",
+            "lit": "yes",
+            "smoothness": "intermediate",
+            "surface": "asphalt",
+            "width": "2",
+            "id": "way/701102952"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6415252,
+                    46.7794683
+                ],
+                [
+                    6.641557,
+                    46.7795301
+                ],
+                [
+                    6.6416008,
+                    46.7795969
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/701102958",
+        "properties": {
+            "timestamp": "2020-01-07T07:22:27Z",
+            "version": "3",
+            "changeset": "79281120",
+            "user": "schnelli",
+            "uid": "225842",
+            "foot": "designated",
+            "footway": "sidewalk",
+            "highway": "footway",
+            "incline": "0%",
+            "lit": "yes",
+            "smoothness": "intermediate",
+            "surface": "asphalt",
+            "id": "way/701102958"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6401263,
+                    46.779841
+                ],
+                [
+                    6.6406983,
+                    46.7796092
+                ],
+                [
+                    6.6411304,
+                    46.7794418
+                ],
+                [
+                    6.6414276,
+                    46.7793324
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/701102960",
+        "properties": {
+            "timestamp": "2020-12-03T11:41:45Z",
+            "version": "4",
+            "changeset": "95222724",
+            "user": "schnelli",
+            "uid": "225842",
+            "foot": "designated",
+            "footway": "sidewalk",
+            "highway": "footway",
+            "incline": "0%",
+            "lit": "yes",
+            "smoothness": "intermediate",
+            "surface": "asphalt",
+            "width": "1.5",
+            "id": "way/701102960"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6414276,
+                    46.7793324
+                ],
+                [
+                    6.6416215,
+                    46.7792617
+                ],
+                [
+                    6.64173,
+                    46.7791533
+                ],
+                [
+                    6.6418128,
+                    46.7790617
+                ],
+                [
+                    6.641912,
+                    46.7789438
+                ],
+                [
+                    6.641965,
+                    46.7788729
+                ],
+                [
+                    6.641956,
+                    46.7788477
+                ],
+                [
+                    6.6419503,
+                    46.7788103
+                ],
+                [
+                    6.6417888,
+                    46.7785963
+                ],
+                [
+                    6.6417719,
+                    46.7785498
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/747528517",
+        "properties": {
+            "timestamp": "2020-12-01T11:59:22Z",
+            "version": "3",
+            "changeset": "95093740",
+            "user": "schnelli",
+            "uid": "225842",
+            "cycleway": "opposite",
+            "highway": "tertiary",
+            "lanes": "1",
+            "lit": "yes",
+            "maxspeed:type": "CH:urban",
+            "name": "Rue des Casernes",
+            "oneway": "yes",
+            "sidewalk": "both",
+            "surface": "asphalt",
+            "id": "way/747528517"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6375212,
+                    46.7796789
+                ],
+                [
+                    6.6375513,
+                    46.779889
+                ],
+                [
+                    6.6375735,
+                    46.779968
+                ],
+                [
+                    6.6376678,
+                    46.7800792
+                ],
+                [
+                    6.6377646,
+                    46.7801798
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/750736162",
+        "properties": {
+            "timestamp": "2020-01-07T07:22:45Z",
+            "version": "3",
+            "changeset": "79281120",
+            "user": "schnelli",
+            "uid": "225842",
+            "bicycle": "yes",
+            "foot": "designated",
+            "highway": "footway",
+            "incline": "0%",
+            "lit": "yes",
+            "motor_vehicle": "no",
+            "name": "Promenade Auguste-Fallet",
+            "sidewalk": "none",
+            "smoothness": "intermediate",
+            "surface": "asphalt",
+            "width": "3",
+            "id": "way/750736162"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6409201,
+                    46.7797974
+                ],
+                [
+                    6.6411457,
+                    46.7797027
+                ],
+                [
+                    6.641557,
+                    46.7795301
+                ],
+                [
+                    6.6418468,
+                    46.7794043
+                ],
+                [
+                    6.6419045,
+                    46.7793792
+                ],
+                [
+                    6.641919,
+                    46.7793581
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/750736163",
+        "properties": {
+            "timestamp": "2020-01-07T07:22:34Z",
+            "version": "2",
+            "changeset": "79281120",
+            "user": "schnelli",
+            "uid": "225842",
+            "highway": "service",
+            "lit": "yes",
+            "sidewalk": "yes",
+            "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+            "id": "way/750736163"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.6408902,
+                    46.7798099
+                ],
+                [
+                    6.6407963,
+                    46.779702
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/750737680",
+        "properties": {
+            "timestamp": "2020-01-07T07:23:10Z",
+            "version": "2",
+            "changeset": "79281120",
+            "user": "schnelli",
+            "uid": "225842",
+            "foot": "designated",
+            "highway": "footway",
+            "incline": "0%",
+            "lit": "yes",
+            "smoothness": "intermediate",
+            "surface": "ground",
+            "width": "1.5",
+            "id": "way/750737680"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.641206,
+                    46.7797755
+                ],
+                [
+                    6.6411457,
+                    46.7797027
+                ]
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "id": "way/780454316",
+        "properties": {
+            "timestamp": "2020-03-12T08:20:32Z",
+            "version": "1",
+            "changeset": "82100289",
+            "user": "swiss_knight",
+            "uid": "10123181",
+            "bicycle": "yes",
+            "foot": "designated",
+            "highway": "footway",
+            "incline": "0%",
+            "lit": "yes",
+            "smoothness": "intermediate",
+            "surface": "sett",
+            "width": "4",
+            "id": "way/780454316"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [
+                    6.638776,
+                    46.7785864
+                ],
+                [
+                    6.6387988,
+                    46.7786206
+                ]
+            ]
+        }
+    }
+]
