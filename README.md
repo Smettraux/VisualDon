@@ -6,3 +6,6 @@ Exercices tirés de https://github.com/idris-maps/heig-datavis-2021
 Exercices du 20210423 à jour
 
 Prêt pour le cours du 20210430
+
+# Infos projet
+<a href="https://github.com/Smettraux/VisualDon/blob/main/projet/README.md">Readme projet</a>
