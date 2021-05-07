@@ -5,3 +5,5 @@ Réaliser un graphique de type "rose des vents" sur la base de données météor
 
 ## Équipe
 Le projet sera réalisé avec Robin Zweifel
+
+<a href="https://github.com/zweiro/WindRose">lien vers le repo du projet</a>
