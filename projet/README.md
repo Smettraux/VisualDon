@@ -4,7 +4,10 @@
 Réaliser un graphique de type "rose des vents" sur la base de données météorologiques. https://observablehq.com/@julesblm/wind-rose
 
 ## Équipe
-Le projet a été réalisé avec Robin Zweifel.
+Le projet a été réalisé avec <a href="https://github.com/zweiro/">Robin Zweifel</a> 
+<code>
+    <a href="https://www.linkedin.com/in/robinzweifel/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
+</code>
 
 ## Concept
 L'idée est de réaliser un graphique de type "rose des vents" sur la base de données météorologique d'une station météo homemade. Une fois le graphique fonctionnel, il nous faudra y ajouter une manière d'interagir pour passer d'une date (set de données) à une autre. Le tout, avec de l'animation.
